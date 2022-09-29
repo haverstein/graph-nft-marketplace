@@ -2,3 +2,7 @@ package.json
 note.txt
 yarn.lock
 node_modules
+networks.json
+subgraph.yaml
+build
+genrated
